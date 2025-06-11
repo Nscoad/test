@@ -12,11 +12,11 @@ export enum DynastyList{ // 用于表示朝代列表
  
 }
 
-export enum CompanyTypeListEnum{ //  定义公司类型列表枚举
+export enum CompanyTypeListEnum{ //  定义公司类型列表
  
 }
 
-export enum PlayerTypeList{//  定义玩家属性列表枚举
+export enum PlayerTypeList{//  定义玩家属性列表
 } 
 
 
