@@ -23,7 +23,7 @@
 
 export enum CountryAddressEnum{ //  定义国家地址枚举
     秦 = "秦",
-    '自我修改'
+    
 }
 
 
